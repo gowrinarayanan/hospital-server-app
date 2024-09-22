@@ -1,0 +1,21 @@
+{
+  "name": "hospital-app",
+  "version": "1.0.0",
+  "description": "gvjv",
+  "main": "index.js",
+  "scripts": {
+    "test": "fv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sdfwed"
+  },
+  "author": "Gowri",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "morgan": "^1.10.0",
+    "node": "^22.9.0"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Medical College",
+    "patientCount": 13,
+    "location": "Trivandrum"
+  },
+  {
+    "id": 5,
+    "name": "gokulam hospital",
+    "patientCount": 40,
+    "location": "Thrissur"
+  },
+  {
+    "id": 6,
+    "name": "KIMS hospital",
+    "patientCount": 70,
+    "location": "Kannur"
+  },
+  {
+    "id": 7
+  }
+]
